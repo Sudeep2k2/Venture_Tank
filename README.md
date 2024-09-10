@@ -24,13 +24,6 @@ This is the official github repository for [venturetanknmit](https://venturetank
 | Tailwindcss | https://tailwindcss.com/ |
 | vue3-burger-menu | https://www.npmjs.com/package/vue3-burger-menu |
 
-## Contributors
-
-[Sudeep S](https://github.com/Sudeep2k2)
-[Suhas N H](https://github.com/suhas991)
-[Vishak](https://github.com/vishakrao)
-[Vishal Sagar](https://github.com/Vishalsagar26)
-
 ## Danger Zone
 
 For people using this repository,
